@@ -1,3 +1,21 @@
+#This Page Is Normal
+
+
+##A List of Normal Things I Like About Purdue
+
+-Rain
+
+-Food
+
+-That One Day When It Is Cold
+
+-The A/C In Other Dorms
+
+###Thank You For Reading My List Of Normal Things I Like About Purdue
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
