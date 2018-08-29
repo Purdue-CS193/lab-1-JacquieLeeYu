@@ -1,9 +1,9 @@
-#Jacquie's First CS193 Lab
+#**Jacquie's First CS193 Lab**
 
 #This Page Is Normal
 
 
-##A List of Normal Things I Like About CS193
+##A List of _Normal (And Totally Italicized)_ Things I Like About CS193
 
 -Ambiance
 
@@ -13,7 +13,7 @@
 
 -Doing 9:30 Classes
 
-###Thank You For Reading My List Of Normal Things I Like About CS193
+###*Thank You For Reading My List Of Normal Things I Like About CS193*
 
 
 
