@@ -3,7 +3,7 @@
 #This Page Is Normal
 
 
-##A List of _Normal (And Totally Italicized)_ Things I Like About CS193
+##A List of _Normal (And Italicized)_ Things I Like About CS193
 
 -Ambiance
 
