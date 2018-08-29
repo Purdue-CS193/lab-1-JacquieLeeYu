@@ -1,17 +1,17 @@
 #This Page Is Normal
 
 
-##A List of Normal Things I Like About Purdue
+##A List of Normal Things I Like About CS193
 
--Rain
+-Ambiance
 
--Food
+-Meeting At Lawson
 
--That One Day When It Is Cold
+-The TAs
 
--The A/C In Other Dorms
+-Doing 9:30 Classes
 
-###Thank You For Reading My List Of Normal Things I Like About Purdue
+###Thank You For Reading My List Of Normal Things I Like About CS193
 
 
 
