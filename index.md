@@ -5,13 +5,13 @@
 
 ##A List of _Normal (And Italicized)_ Things I Like About CS193
 
--Ambiance
+-Helpful TAs
 
--Meeting At Lawson
+-Everyone Is Nice
 
--The TAs
+-Learning Life Skills
 
--Doing 9:30 Classes
+-Piloting My Future
 
 ###*Thank You For Reading My List Of Normal Things I Like About CS193*
 
